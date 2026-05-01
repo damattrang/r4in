@@ -1,7 +1,7 @@
 ### R4in setup
 # global properties
 properties() { '
-kernel.string=R4in will never end.
+kernel.string=rain rain rain
 do.devicecheck=1
 do.modules=0
 do.systemless=1
@@ -10,7 +10,7 @@ do.cleanuponabort=0
 device.name1=a32
 device.name2=SM-A325F
 device.name3=SM-A325M
-device.name4=SM-A325N
+device.name4=
 device.name5=
 supported.versions=
 supported.patchlevels=
