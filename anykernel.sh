@@ -1,7 +1,7 @@
 ### R4in setup
 # global properties
 properties() { '
-kernel.string=rain rain rain
+kernel.string=rain rain rainnnn
 do.devicecheck=1
 do.modules=0
 do.systemless=1
